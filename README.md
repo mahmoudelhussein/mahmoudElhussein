@@ -1,3 +1,18 @@
+<div align="center">
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=250&color=0:0F2027,50:203A43,100:2C5364&text=Mahmoud%20Elhussein&fontColor=ffffff&fontSize=50&fontAlignY=38&desc=Full%20Stack%20Developer&descAlignY=60"/>
+
+<img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=600&size=28&pause=1200&color=00E5FF&center=true&vCenter=true&width=700&lines=Hi+👋+I'm+Mahmoud+Elhussein;Full+Stack+Developer;Building+Modern+Web+Applications;Always+Learning+New+Technologies;Welcome+to+my+GitHub+Profile+🚀"/>
+
+<p>
+<img src="https://komarev.com/ghpvc/?username=mahmoudelhussein&label=Profile%20Views&color=0e75b6&style=for-the-badge"/>
+<img src="https://img.shields.io/github/followers/mahmoudelhussein?style=for-the-badge&color=0e75b6"/>
+<img src="https://img.shields.io/github/stars/mahmoudelhussein?style=for-the-badge&color=0e75b6"/>
+</p>
+
+</div>
+
+
 ---
 
 # 👨‍💻 About Me
