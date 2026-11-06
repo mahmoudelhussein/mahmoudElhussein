@@ -48,9 +48,11 @@ My goal is to create real-world projects that solve problems, provide great user
 
 # 📂 Featured Projects
 
-<div align="center">
 
-### 🚧 Coming Soon...
+- shams constraction:https://shams-constructions.infinityfreeapp.com/
+- zaraa3d:https://zara3d.infinityfreeapp.com/
+- product manegment system:https://products-management-system.infinityfreeapp.com/
+
 
 <p>
 I'm currently working on new projects.
