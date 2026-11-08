@@ -51,6 +51,8 @@ My goal is to create real-world projects that solve problems, provide great user
 - shams constraction:https://shams-constructions.infinityfreeapp.com/
 - zaraa3d:https://zara3d.infinityfreeapp.com/
 - product manegment system:https://products-management-system.infinityfreeapp.com/
+- kickz:https://kickz.wuaze.com/?i=1
+- tka:https://tka.wuaze.com/?i=1
 
 <p>
 I'm currently working on new projects.
